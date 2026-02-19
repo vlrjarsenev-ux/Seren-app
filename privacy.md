@@ -17,7 +17,7 @@ layout: default
 
 Оператор персональных данных: **Wellbeing App**.
 
-По вопросам, связанным с обработкой персональных данных, обращайтесь: **support@wellbeing.app**.
+По вопросам, связанным с обработкой персональных данных, обращайтесь: **vlrjarsenev@gmail.com**.
 
 ---
 
@@ -138,7 +138,7 @@ layout: default
 ## 10. Контакты
 
 **Wellbeing App**  
-Email: **support@wellbeing.app**  
+Email: **vlrjarsenev@gmail.com**  
 Сайт: wellbeing.app
 
 ---
@@ -274,5 +274,5 @@ By continuing to use the app after changes are published, you agree to the updat
 ## 10. Contact
 
 **Wellbeing App**  
-Email: **support@wellbeing.app**  
+Email: **vlrjarsenev@gmail.com**  
 Website: wellbeing.app
