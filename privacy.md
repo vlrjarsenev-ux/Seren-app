@@ -139,7 +139,7 @@ layout: default
 
 **Wellbeing App**  
 Email: **vlrjarsenev@gmail.com**  
-Сайт: wellbeing.app
+Сайт:** https://vlrjarsenev-ux.github.io/wellbeing-app/
 
 ---
 
@@ -275,4 +275,4 @@ By continuing to use the app after changes are published, you agree to the updat
 
 **Wellbeing App**  
 Email: **vlrjarsenev@gmail.com**  
-Website: wellbeing.app
+Website:** https://vlrjarsenev-ux.github.io/wellbeing-app/
