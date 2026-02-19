@@ -28,7 +28,7 @@ layout: default
 
 Если вы не можете войти в приложение или удалить аккаунт самостоятельно:
 
-1. Напишите на **support@wellbeing.app**.
+1. Напишите на **vlrjarsenev@gmail.com**.
 2. Укажите email или номер телефона, с которым зарегистрирован аккаунт.
 3. Напишите: «Прошу удалить мой аккаунт и все связанные данные».
 4. Мы обработаем запрос в течение **14 рабочих дней** и подтвердим удаление по email.
@@ -71,7 +71,7 @@ layout: default
 ## Контакты
 
 **Wellbeing App**  
-Email: **support@wellbeing.app**
+Email: **vlrjarsenev@gmail.com**
 
 ---
 
@@ -137,4 +137,4 @@ We may retain minimal technical logs of the deletion operation (request ID, date
 ## Contact
 
 **Wellbeing App**  
-Email: **support@wellbeing.app**
+Email: **vlrjarsenev@gmail.com**
