@@ -18,4 +18,4 @@ layout: default
 
 **Wellbeing App** — приложение для ежедневной заботы о себе: кнопка «Всё хорошо», журнал благодарности, экстренные уведомления близким.
 
-**Contact:** support@wellbeing.app
+**Contact:** vlrjarsenev@gmail.com
