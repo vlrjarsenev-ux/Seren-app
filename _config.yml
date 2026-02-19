@@ -1,3 +1,6 @@
 title: Wellbeing App
-description: Documentation for Wellbeing App - Privacy Policy, Account Deletion
-theme: jekyll-theme-minimal
+description: Documentation for Wellbeing App - Privacy Policy, Terms, Contact
+baseurl: "/wellbeing-app"
+url: "https://vlrjarsenev-ux.github.io/wellbeing-app"
+markdown: kramdown
+highlighter: rouge

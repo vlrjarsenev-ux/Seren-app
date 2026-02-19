@@ -58,7 +58,7 @@ layout: default
 ## Какие данные не хранятся и не удаляются
 
 - **Платежные данные** (номера карт, реквизиты) — обрабатываются платёжной системой СБП, мы их не храним.
-- **Сообщения экстренному контакту** — отправляются через SMS/Telegram, мы не храним их содержимое после отправки.
+- **Сообщения buddy** — отправляются через SMS/Telegram, мы не храним их содержимое после отправки.
 
 ---
 
@@ -124,7 +124,7 @@ Deletion is completed within **48 hours** of the request. Analytics data in Post
 ## Data We Do Not Store or Delete
 
 - **Payment data** (card numbers, bank details) — processed by the SBP payment system; we do not store it.
-- **Emergency contact messages** — sent via SMS/Telegram; we do not store their content after sending.
+- **Buddy reminders messages** — sent via SMS/Telegram; we do not store their content after sending.
 
 ---
 
@@ -137,4 +137,4 @@ We may retain minimal technical logs of the deletion operation (request ID, date
 ## Contact
 
 **Wellbeing App**  
-Email: vlrjarsenev@gmail.com
+Email: **support@wellbeing.app**

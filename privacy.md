@@ -13,7 +13,7 @@ layout: default
 
 ## 1. Кто мы
 
-**Wellbeing App** — мобильное приложение для психологической поддержки с функцией ежедневной кнопки «Всё хорошо», журналом благодарности и экстренными уведомлениями.
+**Wellbeing App** — мобильное приложение для ежедневной заботы о себе и wellness с функцией ежедневной кнопки «Всё хорошо», журналом благодарности и опциональными напоминаниями buddy.
 
 Оператор персональных данных: **Wellbeing App**.
 
@@ -28,8 +28,8 @@ layout: default
 - **Телефонный номер** — при регистрации через SMS или для уведомлений (если вы вошли через Google)
 - **Имя и фамилия** — для персонализации приложения
 - **Email** — при входе через Google Sign-In (если предоставлен провайдером)
-- **Имя пользователя Telegram** — для уведомлений и экстренного контакта
-- **Экстренный контакт** — телефон или Telegram выбранного вами человека, которому будет отправлено уведомление при длительной неактивности (48 часов без нажатия кнопки)
+- **Имя пользователя Telegram** — для уведомлений и buddy
+- **Buddy (доверенный друг)** — телефон или Telegram выбранного вами человека, которому будет отправлено напоминание при длительной неактивности (48 часов без нажатия кнопки)
 
 ### 2.2. Пользовательский контент
 
@@ -64,7 +64,7 @@ layout: default
 ## 3. Для чего мы используем данные
 
 - **Предоставление сервиса** — работа приложения, синхронизация данных, напоминания
-- **Экстренные уведомления** — отправка SMS или сообщения в Telegram вашему контакту, если вы не нажимали кнопку 48 часов подряд
+- **Напоминания buddy** — отправка SMS или сообщения в Telegram вашему контакту, если вы не нажимали кнопку 48 часов подряд
 - **Улучшение приложения** — анализ обезличенной статистики использования
 - **Поддержка** — ответы на обращения по email
 - **Платежи** — обработка подписки через СБП
@@ -149,7 +149,7 @@ Email: **support@wellbeing.app**
 
 ## 1. Who We Are
 
-**Wellbeing App** is a mobile application for psychological support with a daily "I'm okay" button, gratitude journal, and emergency notifications.
+**Wellbeing App** is a mobile application for daily self-care and wellness with a daily "I'm okay" button, gratitude journal, and optional buddy reminders.
 
 Data controller: **Wellbeing App**.
 
@@ -164,8 +164,8 @@ For questions regarding the processing of personal data, contact: **support@well
 - **Phone number** — when registering via SMS or for notifications (if you signed in with Google)
 - **First and last name** — for app personalization
 - **Email** — when signing in with Google Sign-In (if provided by the provider)
-- **Telegram username** — for notifications and emergency contact
-- **Emergency contact** — phone number or Telegram of a person you choose, who will receive a notification if you are inactive for 48 hours without pressing the button
+- **Telegram username** — for notifications and buddy
+- **Buddy (trusted friend)** — phone number or Telegram of a person you choose, who will receive a reminder if you are inactive for 48 hours without pressing the button
 
 ### 2.2. User Content
 
@@ -200,7 +200,7 @@ Only anonymized data is sent: platform (Android/iOS), app version, language, tim
 ## 3. How We Use the Data
 
 - **Service delivery** — app functionality, data sync, reminders
-- **Emergency notifications** — sending SMS or Telegram message to your contact if you have not pressed the button for 48 hours in a row
+- **Buddy reminders** — sending SMS or Telegram message to your contact if you have not pressed the button for 48 hours in a row
 - **App improvement** — analysis of anonymized usage statistics
 - **Support** — responding to inquiries via email
 - **Payments** — processing subscription via SBP
@@ -274,5 +274,5 @@ By continuing to use the app after changes are published, you agree to the updat
 ## 10. Contact
 
 **Wellbeing App**  
-Email: vlrjarsenev@gmail.com
+Email: **support@wellbeing.app**  
 Website: wellbeing.app
