@@ -19,11 +19,11 @@ layout: default
 - **Идеи и отзывы** — хочешь предложить улучшение или просто поделиться впечатлениями
 - **Любые другие вопросы** — мы на связи
 
-Пиши нашей команде поддержки: **support@wellbeing.app**
+Пиши нашей команде поддержки: **vlrjarsenev@gmail.com**
 
 Если вопрос касается аккаунта или технической проблемы, постарайся подробно описать ситуацию — так нам будет легче оперативно помочь. При необходимости мы можем попросить указать email или телефон, с которым зарегистрирован аккаунт.
 
-**Ещё раз: support@wellbeing.app**
+**Ещё раз: vlrjarsenev@gmail.com**
 
 ---
 
@@ -41,8 +41,6 @@ We want your experience with Wellbeing App to be as helpful as possible, so our 
 - **Ideas and feedback** — want to suggest an improvement or share your experience
 - **Any other questions** — we're here to help
 
-Write to our support team: **support@wellbeing.app**
+Write to our support team: **vlrjarsenev@gmail.com**
 
 If your question concerns your account or a technical issue, please describe the situation in detail — this helps us respond faster. We may ask for the email or phone number associated with your account if needed.
-
-**Again: support@wellbeing.app**
