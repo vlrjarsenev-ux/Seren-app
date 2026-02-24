@@ -123,7 +123,7 @@ layout: default
 
 ## 8. Дети
 
-Приложение не предназначено для лиц младше 16 лет. Мы не собираем осознанно персональные данные детей. Если вы узнали, что ребёнок предоставил нам данные, пожалуйста, напишите на support@wellbeing.app — мы удалим их.
+Приложение не предназначено для лиц младше 13 лет. Мы не собираем осознанно персональные данные детей. Если вы узнали, что ребёнок предоставил нам данные, пожалуйста, напишите на vlrjarsenev@gmail.com — мы удалим их.
 
 ---
 
@@ -153,7 +153,7 @@ Email: **vlrjarsenev@gmail.com**
 
 Data controller: **Wellbeing App**.
 
-For questions regarding the processing of personal data, contact: **support@wellbeing.app**.
+For questions regarding the processing of personal data, contact: **vlrjarsenev@gmail.com**.
 
 ---
 
