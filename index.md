@@ -1,11 +1,11 @@
 ---
-title: Wellbeing App
+title: Seren App
 layout: default
 ---
 
-# Wellbeing App
+# Seren App
 
-Документация приложения Wellbeing App.
+Документация приложения Seren App.
 
 ## Ссылки
 
@@ -16,6 +16,6 @@ layout: default
 
 ---
 
-**Wellbeing App** — приложение для ежедневной заботы о себе: кнопка «Всё хорошо», журнал благодарности, экстренные уведомления близким.
+**Seren App** — приложение для ежедневной заботы о себе: кнопка «Всё хорошо», журнал благодарности, экстренные уведомления близким.
 
 **Contact:** vlrjarsenev@gmail.com
