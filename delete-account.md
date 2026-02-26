@@ -5,9 +5,9 @@ layout: default
 
 # Запрос на удаление аккаунта / Account Deletion Request
 
-**Wellbeing App** — разработчик приложения Wellbeing App
+**Seren App** — разработчик приложения Wellbeing App
 
-Эта страница содержит инструкцию по запросу удаления аккаунта и связанных с ним данных в приложении **Wellbeing App**.
+Эта страница содержит инструкцию по запросу удаления аккаунта и связанных с ним данных в приложении **Seren App**.
 
 ---
 
@@ -17,7 +17,7 @@ layout: default
 
 ### Способ 1: Через приложение (рекомендуется)
 
-1. Откройте приложение **Wellbeing App** на вашем устройстве.
+1. Откройте приложение **Seren App** на вашем устройстве.
 2. Перейдите в раздел **Профиль** (иконка профиля в нижней навигации).
 3. Прокрутите вниз до кнопки **«Удалить аккаунт»**.
 4. Нажмите **«Удалить аккаунт»**.
@@ -70,7 +70,7 @@ layout: default
 
 ## Контакты
 
-**Wellbeing App**  
+**Seren App**  
 Email: **vlrjarsenev@gmail.com**
 
 ---
@@ -83,7 +83,7 @@ Email: **vlrjarsenev@gmail.com**
 
 ### Method 1: Through the App (Recommended)
 
-1. Open the **Wellbeing App** on your device.
+1. Open the **Seren App** on your device.
 2. Go to **Profile** (profile icon in the bottom navigation).
 3. Scroll down to the **"Delete account"** button.
 4. Tap **"Delete account"**.
