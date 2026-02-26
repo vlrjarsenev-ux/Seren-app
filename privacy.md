@@ -13,9 +13,9 @@ layout: default
 
 ## 1. Кто мы
 
-**Wellbeing App** — мобильное приложение для ежедневной заботы о себе и wellness с функцией ежедневной кнопки «Всё хорошо», журналом благодарности и опциональными напоминаниями buddy.
+**Seren App** — мобильное приложение для ежедневной заботы о себе и wellness с функцией ежедневной кнопки «Всё хорошо», журналом благодарности и опциональными напоминаниями buddy.
 
-Оператор персональных данных: **Wellbeing App**.
+Оператор персональных данных: **Seren App**.
 
 По вопросам, связанным с обработкой персональных данных, обращайтесь: **vlrjarsenev@gmail.com**.
 
@@ -137,9 +137,9 @@ layout: default
 
 ## 10. Контакты
 
-**Wellbeing App**  
+**Seren App**  
 Email: **vlrjarsenev@gmail.com**  
-Сайт:** https://vlrjarsenev-ux.github.io/wellbeing-app/
+
 
 ---
 
@@ -149,9 +149,9 @@ Email: **vlrjarsenev@gmail.com**
 
 ## 1. Who We Are
 
-**Wellbeing App** is a mobile application for daily self-care and wellness with a daily "I'm okay" button, gratitude journal, and optional buddy reminders.
+**Seren App** is a mobile application for daily self-care and wellness with a daily "I'm okay" button, gratitude journal, and optional buddy reminders.
 
-Data controller: **Wellbeing App**.
+Data controller: **Seren App**.
 
 For questions regarding the processing of personal data, contact: **vlrjarsenev@gmail.com**.
 
@@ -259,7 +259,7 @@ Detailed instructions: [Account Deletion Request](delete-account)
 
 ## 8. Children
 
-The app is not intended for persons under 16 years of age. We do not knowingly collect personal data from children. If you learn that a child has provided us with data, please contact support@wellbeing.app — we will delete it.
+The app is not intended for persons under 16 years of age. We do not knowingly collect personal data from children. If you learn that a child has provided us with data, please contact vlrjarsenev@gmail.com — we will delete it.
 
 ---
 
@@ -273,6 +273,5 @@ By continuing to use the app after changes are published, you agree to the updat
 
 ## 10. Contact
 
-**Wellbeing App**  
+**Seren App**  
 Email: **vlrjarsenev@gmail.com**  
-Website:** https://vlrjarsenev-ux.github.io/wellbeing-app/
