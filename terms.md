@@ -13,13 +13,13 @@ layout: default
 
 ## 1. Принятие условий
 
-Используя приложение **Wellbeing App** («Приложение»), вы соглашаетесь с настоящими Условиями использования. Если вы не согласны с какими-либо положениями, пожалуйста, не используйте Приложение.
+Используя приложение **Seren App** («Приложение»), вы соглашаетесь с настоящими Условиями использования. Если вы не согласны с какими-либо положениями, пожалуйста, не используйте Приложение.
 
 ---
 
 ## 2. Описание сервиса
 
-**Wellbeing App** — мобильное приложение для ежедневной заботы о себе и wellness, включающее:
+**Seren App** — мобильное приложение для ежедневной заботы о себе и wellness, включающее:
 
 - Кнопку «Всё хорошо» для ежедневных отметок
 - Журнал благодарности
@@ -58,7 +58,7 @@ layout: default
 
 ## 6. Интеллектуальная собственность
 
-Все права на Приложение, его дизайн, контент и технологии принадлежат **Wellbeing App**. Запрещается копирование, модификация или распространение материалов Приложения без письменного согласия правообладателя.
+Все права на Приложение, его дизайн, контент и технологии принадлежат **Seren App**. Запрещается копирование, модификация или распространение материалов Приложения без письменного согласия правообладателя.
 
 ---
 
@@ -90,9 +90,8 @@ layout: default
 
 ## 11. Контакты
 
-**Wellbeing App**  
+**Seren App**  
 Email: vlrjarsenev@gmail.com 
-Сайт: https://vlrjarsenev-ux.github.io/wellbeing-app/
 
 ---
 
@@ -102,13 +101,13 @@ Email: vlrjarsenev@gmail.com
 
 ## 1. Acceptance of Terms
 
-By using the **Wellbeing App** ("App"), you agree to these Terms of Use. If you do not agree with any provision, please do not use the App.
+By using the **Seren App** ("App"), you agree to these Terms of Use. If you do not agree with any provision, please do not use the App.
 
 ---
 
 ## 2. Description of Service
 
-**Wellbeing App** is a mobile application for daily self-care and wellness, including:
+**Seren App** is a mobile application for daily self-care and wellness, including:
 
 - "I'm okay" button for daily check-ins
 - Gratitude journal
@@ -147,7 +146,7 @@ You agree to:
 
 ## 6. Intellectual Property
 
-All rights to the App, its design, content, and technology belong to **Wellbeing App**. Copying, modifying, or distributing App materials without written consent of the rights holder is prohibited.
+All rights to the App, its design, content, and technology belong to **Seren App**. Copying, modifying, or distributing App materials without written consent of the rights holder is prohibited.
 
 ---
 
@@ -179,6 +178,6 @@ These Terms are governed by the laws of the Russian Federation. Disputes shall b
 
 ## 11. Contact
 
-**Wellbeing App**  
+**Seren App**  
 Email: vlrjarsenev@gmail.com
 Website: https://vlrjarsenev-ux.github.io/wellbeing-app/
